@@ -1,0 +1,41 @@
+name = 'Pallavi'
+print(name)
+age = 18
+print(age)
+college = 'xy college'
+print(college)
+score = 80
+print(score)
+name = 'Pallavi'
+age = 18
+college = 'xy college'
+print(name, age, college)
+num1 = 20
+num2 = 30
+print(num1 + num2)
+is_student = True
+print(is_student)
+x = 100
+print(type(x))
+x= 100,10.5,"pallavi",False
+print(type(x))
+name = 'Pallavi'
+print(name)
+x = float(10)
+print(type(x))
+print(x)
+x = str(25)
+print(x)
+x = 5
+y = "10"
+print(x + int(y))
+a = 10
+b = 5.5
+print(type(a + b))
+x = 10
+x=20
+print(x)
+x = 10
+y = x
+x = 30
+print(y)
